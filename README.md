@@ -46,17 +46,6 @@
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here using Markdown if hosting on GitHub)
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-![Profit Entry](screenshots/profit-entry.png)
-```
-
----
-
 ## 🔐 Admin Features
 
 - Add/Edit/Delete Investors
@@ -70,7 +59,7 @@
 
 1. Clone the repository  
 2. Set up MySQL DB with provided schema  
-3. Run `DhanVriddhi.java` (ensure JDBC driver is linked)
+3. Run `UserLogin.java` (ensure JDBC driver is linked)
 4. Login using Admin credentials  
 5. Start managing investor entries and profit calculations!
 
@@ -89,7 +78,6 @@
 
 **Saketh Pinumalla**  
 Final Year IT Student, Vasavi College of Engineering  
-🔗 _[LinkedIn, GitHub, Portfolio]_  
 🔁 _Hackathon Finalist | Tech Savvy | Real-world Problem Solver_
 
 ---
